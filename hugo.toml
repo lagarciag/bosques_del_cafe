@@ -1,0 +1,12 @@
+baseURL = 'https://galuisal.github.io/bosques_del_cafe'
+languageCode = 'es-ES'
+title = 'Bosques del Café - Documentación'
+
+[params]
+  github_repo = 'https://github.com/galuisal/bosques_del_cafe'
+  github_branch = 'main'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
