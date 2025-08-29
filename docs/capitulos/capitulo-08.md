@@ -1,43 +1,53 @@
+# 📅 Capítulo VIII - De las Convocatorias, Quórum y Acuerdos
+
+!!! abstract "Resumen del Capítulo"
+    
+    Procedimientos para convocatorias, plazos, medios de comunicación, tipos de mayorías requeridas (unánime, dos tercios, simple) según el tipo de decisión.
+
 ---
-title: "Capítulo VIII - De las Convocatorias, Quórum y Acuerdos"
-weight: 80
-description: "Procedimientos para convocatorias, requisitos de quórum y tipos de mayorías requeridas para diferentes acuerdos"
----
 
-# Capítulo VIII - De las Convocatorias, Quórum y Acuerdos
+## 📨 Artículo 56: Convocatorias para Asamblea General
 
-## Artículo 56: Convocatorias para Asamblea General
+### 👨‍💼 Quién Puede Convocar
 
-### Quién Puede Convocar
-La **convocatoria** para Asamblea General de Condóminos será realizada por:
-- **El Administrador** en cualquier tiempo, o
-- **El conjunto de propietarios** que represente como mínimo un tercio del valor del condominio se lo pida
+!!! info "Facultad de Convocatoria"
+    
+    La **convocatoria** para Asamblea General de Condóminos será realizada por:
+    
+    - 👨‍💼 **El Administrador** en cualquier tiempo, o
+    - 👥 **El conjunto de propietarios** que represente como mínimo un tercio del valor del condominio se lo pida
 
-### Plazos y Medios de Convocatoria
+### ⏰ Plazos y Medios de Convocatoria
 Deberá realizarse la convocatoria con una **antelación mínima de 8 días naturales** a la celebración de la asamblea, mediante comunicación escrita a todos los condóminos.
 
-#### Medios Válidos de Notificación
+#### 📧 Medios Válidos de Notificación
+
 - **Correo electrónico** que cada condómino reportó al Administrador
 - **Carta circular** entregada en la respectiva filial
 - **Aviso en periódico** (a criterio del Administrador) publicado en uno de los periódicos de mayor circulación nacional
 
 **Importante:** Para el cómputo del plazo **no se cuenta el día de publicación ni el de celebración** de la Asamblea.
 
-### Administrador con Nombramiento Vencido
+### ⏳ Administrador con Nombramiento Vencido
+
 En caso de que el nombramiento del Administrador se encuentre vencido, **este aún así conservará la facultad de convocar** a la Asamblea de condóminos, hasta que esta última inscriba su reelección o el nombramiento de su sustituto.
 
 ## Artículo 57: Verificación del Quórum
 
-### Responsabilidad del Administrador
+### 📋 Responsabilidad del Administrador
 Corresponderá al **Administrador verificar el quórum** para su celebración, debiendo al efecto:
 
-#### Lista de Asistencia
+#### 📝 Lista de Asistencia
+
 Confeccionar una **lista de asistencia** que contendrá:
+
 - Los datos necesarios para comprobar la efectiva asistencia
 - Deberá estar **firmada por cada condómino** asistente a la asamblea o su respectivo apoderado
 
-#### Expediente de la Asamblea
+#### 📁 Expediente de la Asamblea
+
 El Administrador confeccionará un **expediente de la Asamblea** que incluirá:
+
 - Lista de asistencia debidamente firmada por los Asistentes y el Presidente y Secretario de la Asamblea
 - Todos aquellos **documentos de respaldo** que acreditan la representación de los asistentes, tales como:
   - Poderes
@@ -47,14 +57,18 @@ El Administrador confeccionará un **expediente de la Asamblea** que incluirá:
 
 ## Artículo 58: Quórum de la Asamblea
 
-### Primera Convocatoria
+### 1️⃣ Primera Convocatoria
+
 El quórum de la Asamblea de Condóminos en **primera convocatoria** será el que represente como **mínimo las dos terceras partes del valor** del CONDOMINIO según la escritura constitutiva.
 
-### Segunda Convocatoria
+### 2️⃣ Segunda Convocatoria
+
 Si no se logra el quórum en la primera convocatoria, el quórum en **segunda convocatoria** estará constituido por la **asistencia de cualquier número de asistentes**.
 
-### Convocatorias el Mismo Día
+### 🗺️ Convocatorias el Mismo Día
+
 Las diversas convocatorias podrán hacerse **el mismo día**, siempre que:
+
 - Esté separada una de la otra por un **lapso de treinta minutos** cuando menos
 - Las mismas deberán contener:
   - El orden del día
@@ -104,6 +118,7 @@ La **variación de las cláusulas** de la escritura constitutiva o del reglament
 ### C) REQUIEREN MAYORÍA SIMPLE
 
 Cualquier otro acuerdo, incluido pero no limitado a:
+
 - La **aprobación de reglamentos o regulaciones internas** de condominio tendientes a optimizar el uso de los bienes y servicios comunes
 
 ## Artículo 60: Valor del Voto
@@ -112,15 +127,20 @@ El **voto de cada propietario** valdrá conforme al **porcentaje de valor** que 
 
 ## Artículo 61: Actas de Asamblea
 
-### Registro en Libro Oficial
+### 📖 Registro en Libro Oficial
+
 De cada Asamblea se **levantará un acta** la cual se asentará en el **Libro respectivo**, mismo el cual deberá estar debidamente legalizado o autorizado por:
+
 - La Sección de Propiedad en Condominio del Registro Público, o
 - Por quien la LEY disponga
 
-### Contenido del Acta
+### 📝 Contenido del Acta
+
 En dicho libro se consignarán **los acuerdos tomados** los cuales serán firmados por:
+
 - El **Presidente** nombrado por dicha Asamblea
 - El **Secretario** nombrado por dicha Asamblea
 
-### Verificación del Quórum
+### ✅ Verificación del Quórum
+
 El quórum de la asamblea se verificará mediante **la firma por parte de cada condómino** o su representante de la lista de asistencia en la asamblea y firma del condómino o representante.

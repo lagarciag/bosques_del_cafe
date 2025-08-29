@@ -138,4 +138,5 @@ copyright: Copyright &copy; 2024 Bosques del Café
 nav:
   - Inicio: index.md
   - Información de Finca: informacion-finca.md
-  - Reglamento en formato Web: capitulos/
+  - Reglamento en formato Web: capitulos/index.md
+  - "🤖 IA del Reglamento": "https://chatgpt.com/g/g-68afb4fdf81c819182b5171d14ccef8d-ia-reglamento-bosques-del-cafe"

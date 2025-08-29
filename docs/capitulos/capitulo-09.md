@@ -1,27 +1,34 @@
+# 👨‍💼 Capítulo IX - De la Administración
+
+!!! abstract "Resumen del Capítulo"
+    
+    Funciones detalladas del Administrador: representación legal, gestión financiera, mantenimiento, sanciones, manejo de cuentas bancarias y servidumbres para servicios públicos.
+
 ---
-title: "Capítulo IX - De la Administración"
-weight: 90
-description: "Funciones, atribuciones y responsabilidades del Administrador del condominio"
----
 
-# Capítulo IX - De la Administración
+## 👨‍💼 Artículo 62: Del Administrador del Condominio
 
-## Artículo 62: Del Administrador del Condominio
+### 🏢 Responsabilidad General
 
-### Responsabilidad General
-La **Administración del Condominio**, así como de los bienes comunes con todas sus atribuciones corresponde al **Administrador** quien podrá ser un condómino o no.
+!!! info "Designación del Administrador"
+    
+    La **Administración del Condominio**, así como de los bienes comunes con todas sus atribuciones corresponde al **Administrador** quien podrá ser un condómino o no.
 
-### Períodos de Nombramiento
-- **Primer período:** **Cinco años**, contados a partir de su nombramiento
+### ⏰ Períodos de Nombramiento
+
+- ⏳ **Primer período:** **Cinco años**, contados a partir de su nombramiento
 - **Períodos sucesivos:** **Un año**, pudiendo ser reelecto de forma sucesiva por la Asamblea de condóminos
 
-### Facultades Legales
+### ⚖️ Facultades Legales
+
 El Administrador ejercerá la **representación judicial y extrajudicial** del Condominio con facultades de **APODERADO GENERALÍSIMO SIN LÍMITE DE SUMA**, pudiendo al efecto:
+
 - Proceder a la apertura y manejo de cuentas bancarias de todo tipo en cualquier moneda
 - Trabajar con cualquier banco o institución financiera con oficina abierta en el territorio nacional
 - Otorgar poderes especiales y especiales judiciales conservando su ejercicio
 
-### Nombramiento y Remoción
+### 💼 Nombramiento y Remoción
+
 - **Reelección y remoción:** Corresponderán a la Asamblea General de Condóminos mediante acuerdo tomado por el valor total del Condominio
 - **Revocación por incumplimiento:** En caso de incumplimiento grave de sus funciones, el nombramiento podrá ser revocado libremente por la Asamblea de Condóminos
 - **Personas físicas o jurídicas:** El nombramiento de Administrador podrá recaer tanto en personas físicas como jurídicas
@@ -32,34 +39,43 @@ El Administrador ejercerá la **representación judicial y extrajudicial** del C
 Corresponderá al Administrador:
 
 ### a) Vigilancia y Atención
+
 La **atención y vigilancia** de los bienes y servicios comunes
 
 ### b) Instalaciones y Servicios
+
 La **atención y cuidado** de las instalaciones y servicios generales
 
 ### c) Administración y Conservación
+
 La **realización de todos los actos** referentes a la administración y conservación de las edificaciones, pudiendo proceder a la apertura y manejo de todo tipo de cuentas bancarias a nombre del condominio en cualquier institución bancaria con oficinas abiertas en el territorio nacional
 
 ### d) Mantenimiento Higiénico
+
 **Velar por el mantenimiento higiénico** de:
+
 - Las áreas de acceso
 - Aceras
 - Zonas recreacionales
 - Demás áreas comunes
 
 ### e) Gestión Financiera
+
 - **Recaudar las cuotas condominales** y demás pagos a favor del condominio de forma efectiva (preferiblemente mediante depósito en la cuenta del condominio)
 - **Efectuar los pagos** de los gastos comunes
 - **Llevar la contabilidad detallada** de todos los movimientos de fondos
 - **La recaudación de las cuotas mensuales** por gastos comunes e impuestos que corresponden a cada propietario
 
 ### f) Mantenimiento del Orden
+
 **Mantener el orden** velando porque no se irrespeten:
+
 - Las REGULACIONES CONDOMINALES
 - La moral y buenas costumbres
 - Que no se perturbe en forma alguna a los propietarios o habitantes del condominio
 
 **Facultades sancionadoras:** Está facultado para:
+
 - Tomar las medidas que considere pertinentes contra quienes perturben el orden y la tranquilidad
 - Imponer conforme a este reglamento y el artículo 23 de la Ley, todas las sanciones que estime convenientes:
   - Prevenciones escritas
@@ -68,13 +84,16 @@ La **realización de todos los actos** referentes a la administración y conserv
 - Imponer las sanciones del artículo 22 de la LEY contra los ocupantes del inmueble que no sean propietarios
 
 ### g) Certificaciones de Deuda
+
 **Suministrar la información necesaria** a un Contador Público Autorizado para que este emita certificaciones de las sumas que los propietarios adeuden por concepto del pago de las cuotas que les corresponden satisfacer.
 
 **Título ejecutivo:** Dicha certificación constituirá título ejecutivo hipotecario, pudiendo el Administrador:
+
 - Interponer procesos judiciales, administrativos o de cualquier naturaleza
 - Representar al condominio en cualquier proceso que se plantee en su contra
 
 ### h) Ejecución de Acuerdos
+
 **Ejecutar los acuerdos** de la Asamblea de Condóminos y las directrices de la Junta de condóminos
 
 ### i) Supervisión de Personal
@@ -85,6 +104,7 @@ La **realización de todos los actos** referentes a la administración y conserv
 
 ### k) Cuentas Bancarias
 **Abrir a nombre del condominio y manejar** de forma cuidadosa y eficiente las cuentas bancarias que considere necesarias para una buena contabilidad, estando autorizado a:
+
 - Nombrar terceros firmantes en dichas cuentas
 - Abrirlas en cualquier tipo de moneda
 - Trabajar con cualquier institución financiera con oficina abierta en el territorio nacional
@@ -95,6 +115,7 @@ La **realización de todos los actos** referentes a la administración y conserv
 **Excepción:** No puede referirse a la colocación de rótulos durante el proceso constructivo por parte de la empresa Desarrolladora o Promotora del proyecto, ya que esta tendrá plena libertad de decidir la forma y ubicación de los mismos.
 
 **Antenas y equipos:** Determinará la colocación o no de:
+
 - Antenas radio receptoras de televisión
 - Aparatos de frecuencia modulada y otros similares
 - Pudiendo autorizar o no su colocación con plena libertad para indicar su ubicación según los intereses del condominio
@@ -102,6 +123,7 @@ La **realización de todos los actos** referentes a la administración y conserv
 
 ### m) Circulación Vehicular
 **Tomar las medidas adecuadas** para:
+
 - Regular la correcta circulación de vehículos
 - Estacionamiento de estos en los lugares de aparcamiento del condominio
 - Vigilar que tal estacionamiento se produzca ordenadamente según las regulaciones
@@ -110,11 +132,13 @@ La **realización de todos los actos** referentes a la administración y conserv
 De conformidad con el artículo 41 del reglamento a la LEY, queda **expresamente autorizado** para que **sin necesidad de acuerdo previo** de Asamblea de condóminos ni participación de los propietarios, proceda a:
 
 **La constitución de servidumbres** sobre áreas comunes del condominio que se requieran para la obtención y operación de los servicios públicos básicos a favor de:
+
 - Los condóminos y el condominio
 - Las instituciones del Estado
 - Empresas de servicios públicos
 
 **Facultades adicionales:** Está facultado el Administrador para:
+
 - **Suscribir a nombre del condominio** los contratos o escrituras públicas necesarias para obtener servicios
 - **Comparecer ante Notario Público** a otorgar escrituras de servidumbre, derechos de paso y/o donación a favor de instituciones públicas o privadas encargadas de proveer los servicios que requiere el condominio, incluido pero no limitado a:
   - Instituto Costarricense de Acueductos y Alcantarillados
@@ -135,6 +159,7 @@ De conformidad con el artículo 41 del reglamento a la LEY, queda **expresamente
 
 ### r) Representación en Condominio Principal
 En caso de no existir representante nombrado por la Asamblea, será facultad del Administrador el **representar al condominio** en todas las Asambleas de Condóminos del Condominio Principal, ejerciendo todos y cada uno de los derechos que como condómino tiene el condominio en dichas Asambleas, pudiendo al efecto:
+
 - Recibir convocatorias
 - Participar en las asambleas
 - Firmar listas de asistencia y demás controles
@@ -153,10 +178,12 @@ Si el Administrador designado llegare a tener certeza de alguna **irregularidad 
 
 ## Artículo 65: Cuenta Bancaria del Condominio
 
-### Apertura Obligatoria
+### 🏦 Apertura Obligatoria
+
 Deberá **abrirse una cuenta bancaria** a nombre del condominio, en la que una vez abierta:
+
 - Deberán **depositarse todos los ingresos** que se reciban
 - **Todo pago se hará girando** contra dicha cuenta las sumas respectivas mediante cheque para atender las operaciones que demanda la administración del condominio
 
-### Autorización de Firmantes
+### ✍️ Autorización de Firmantes
 El Administrador **autorizará a la persona o las personas** que puedan girar contra dicha cuenta bancaria y en las condiciones que él determine.

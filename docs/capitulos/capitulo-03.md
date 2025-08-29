@@ -1,33 +1,50 @@
+# ✅ Capítulo III - Derechos, Obligaciones y Prohibiciones
+
+!!! abstract "Resumen del Capítulo"
+    
+    El capítulo más extenso que cubre derechos de propietarios, obligaciones de mantenimiento, regulaciones arquitectónicas, normas para parqueos, mascotas, y principales prohibiciones para mantener la armonía del condominio.
+
 ---
-title: "Capítulo III - Derechos, Obligaciones y Prohibiciones"
-weight: 30
-description: "Derechos de los propietarios, obligaciones condominales, regulaciones sobre modificaciones, parqueos, y principales prohibiciones"
----
 
-# Capítulo III - Derechos, Obligaciones y Prohibiciones
+## 🗝️ Artículo 8: Derechos de los Propietarios
 
-## Artículo 8: Derechos de los Propietarios
+!!! success "Derechos de Propiedad"
+    
+    Los **PROPIETARIOS** tendrán el dominio exclusivo sobre su(s) **FILIAL(ES)** estando facultados para:
+    
+    - 💰 Enajenar, gravar y disponer mediante toda clase de actos o contratos
+    - 🏠 Arrendar o disponer de sus derechos de propiedad
+    
+    Siempre respetando la legislación vigente y demás REGULACIONES CONDOMINALES.
 
-Los **PROPIETARIOS** tendrán el dominio exclusivo sobre su(s) **FILIAL(ES)** estando facultados para enajenar, gravar y disponer mediante toda clase de actos o contratos respecto al suyo, con las limitaciones establecidas por LEY o por el presente REGLAMENTO. De igual forma podrán arrendar o disponer de sus derechos de propiedad, respetando siempre la legislación vigente y demás REGULACIONES CONDOMINALES.
+## 🔗 Artículo 9: Inseparabilidad de Derechos
 
-## Artículo 9: Inseparabilidad de Derechos
+!!! info "Principio de Inseparabilidad"
+    
+    La disposición de la FILIAL lleva consigo el derecho de copropiedad en los bienes del CONDOMINIO por ser estos **inseparables**.
 
-Queda entendido que la disposición de la FILIAL, lleva consigo el derecho de copropiedad en los bienes del CONDOMINIO por ser estos **inseparables** a esta. 
+### Obligaciones de Adquirentes y Residentes
 
-Los adquirentes de los respectivos derechos y cualquier persona que habite bajo cualquier modalidad el condominio, estarán obligados a:
+- 🏢 Respetar el destino general de las edificaciones
+- 📄 Respetar y acatar las disposiciones del reglamento
+- ⚠️ No podrá alegar ignorancia de las regulaciones
 
-- Respetar el destino general de las edificaciones y en particular el de cada una de las fincas filiales
-- Respetar y acatar las disposiciones del presente reglamento y demás regulaciones que dicte la administración y la Asamblea de condóminos
-- No podrá alegar ignorancia a las mismas
+!!! warning "Responsabilidad Financiera"
+    
+    La filial responderá por aquellas obligaciones pecuniarias que tenga con el Condominio, **independientemente de quién es su propietario o de quién las generó**.
 
-**Importante:** La filial responderá por aquellas obligaciones pecuniarias que tenga con el Condominio, independientemente de quién es su propietario o de quién las generó.
+## 📃 Artículo 10: Certificación en Ventas y Traspasos
 
-## Artículo 10: Certificación en Ventas y Traspasos
+!!! danger "Obligación Legal"
+    
+    En caso de **venta y/o traspaso** por cualquier título de una filial, el transmitente estará obligado a presentar una **certificación emitida por el Administrador del Condominio**.
 
-En caso de **venta y/o traspaso** por cualquier título de una filial, el transmitente estará obligado a presentar al adquirente o al Notario Público que efectúe el traspaso, una **certificación emitida por el Administrador del Condominio** en la que se haga constar el estado en que se encuentra dicha filial con relación al pago de sus obligaciones condominales, incluido pero no limitado a:
+### Contenido de la Certificación
 
-- Cuotas condominales
-- Gastos comunes
+La certificación debe hacer constar el estado de la filial respecto a:
+
+- 🧮 Cuotas condominales
+- 💰 Gastos comunes
 - Multas
 - Intereses
 - Otros gastos pendientes
