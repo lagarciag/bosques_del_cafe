@@ -1,25 +1,34 @@
+# 🏢 Capítulo VII - Órganos de Gobierno y Administración
+
+!!! abstract "Resumen del Capítulo"
+    
+    Estructura organizacional del condominio: Asamblea de Condóminos (composición, tipos, representación) y el Administrador como órganos de gobierno.
+
 ---
-title: "Capítulo VII - Órganos de Gobierno y Administración"
-weight: 70
-description: "Estructura de gobierno del condominio: Asamblea de Condóminos y Administrador"
+
+## 🏛️ Artículo 49: Órganos de Gobierno
+
+!!! info "Estructura de Gobierno"
+    
+    Los **órganos de Gobierno y Administración** que regirán el CONDOMINIO serán:
+
+### 👥 A) La Asamblea de Condóminos
+### 👨‍💼 B) El Administrador
+
 ---
 
-# Capítulo VII - Órganos de Gobierno y Administración
+## 👥 Artículo 50: Las Asambleas de Condóminos
 
-## Artículo 49: Órganos de Gobierno
+### 📁 Composición
 
-Los **órganos de Gobierno y Administración** que regirán el CONDOMINIO serán:
+!!! success "Integrantes de la Asamblea"
+    
+    Estará constituida por los **propietarios de las FILIALES** válidamente convocados.
 
-### A) La Asamblea de Condóminos
-### B) El Administrador
+### 💼 Dirección de la Asamblea
 
-## Artículo 50: Las Asambleas de Condóminos
-
-### Composición
-Estará constituida por los **propietarios de las FILIALES** válidamente convocados.
-
-### Dirección de la Asamblea
 Las Asambleas de condóminos serán presididas por:
+
 - Un **Presidente nombrado** por la Asamblea para tal efecto
 - Un **secretario ad hoc**, el cual:
   - Levantará y asentará en libros el acta correspondiente
@@ -29,14 +38,17 @@ Las Asambleas de condóminos serán presididas por:
     - Poderes
     - Documentos de respaldo
 
-### Tipos de Asambleas
+### 📋 Tipos de Asambleas
 
-#### Asambleas Ordinarias
+#### 📅 Asambleas Ordinarias
+
 Aquellas que se realicen **una vez al año** para:
+
 - Conocer el informe y rendición de cuentas de la Administración
 - Aprobar el presupuesto de gastos del período correspondiente
 
-#### Asambleas Extraordinarias
+#### ⚡ Asambleas Extraordinarias
+
 Cualquier otro asunto será tratado en **Asamblea Extraordinaria**.
 
 **Nota:** En una misma Asamblea se podrán tratar asuntos de carácter ordinario y extraordinario, si la convocatoria así lo expresare.
@@ -47,12 +59,14 @@ Cuando una filial llegare a pertenecer a **diversas personas en copropiedad** o 
 
 ## Artículo 52: Representación mediante Poder
 
-### Otorgamiento de Poder
+### 📜 Otorgamiento de Poder
+
 Será posible ejercer la **representación de uno o más condóminos** mediante el otorgamiento de poder especial que deberá acreditarse al momento de la celebración de la Asamblea.
 
 **Requisito:** Este poder debe estar **debidamente autenticado por Notario Público**.
 
-### Acreditación para Ejercer el Voto
+### 🗳️ Acreditación para Ejercer el Voto
+
 Para ejercer el voto en las Asambleas, cada condómino deberá **acreditar su condición** con documentación idónea, la cual presentará al inicio de la Asamblea, **bajo pena de no poder ejercer el voto** por no haber acreditado su condición de condómino.
 
 ## Artículo 53: Atribuciones de la Asamblea de Condóminos
@@ -60,7 +74,9 @@ Para ejercer el voto en las Asambleas, cada condómino deberá **acreditar su co
 Corresponderá a la Asamblea de Condóminos:
 
 ### a) Junta de Condóminos
+
 Nombrar, según conveniencia del condominio una **Junta de Condóminos**, integrada por **al menos cuatro miembros** y que tendrá la función principal de:
+
 - Facilitar la ejecución de los acuerdos tomados por la asamblea de condóminos
 - Facilitar la relación entre los condóminos y el Administrador
 - Coadyuvar al Administrador en su función, pudiendo al efecto:
@@ -69,29 +85,37 @@ Nombrar, según conveniencia del condominio una **Junta de Condóminos**, integr
 - Sin perjuicio de que la Asamblea de Condóminos le confiera **facultades adicionales**
 
 ### b) Administrador
+
 - **Nombrar, remover, reelegir o sancionar** al Administrador
 - **Fijar su remuneración**
 - **Atribuirle facultades adicionales** a las conferidas mediante el presente reglamento
 
 ### c) Control Financiero
+
 **Conocer del informe de administración** de los estados de cuenta que el administrador debe rendir
 
 ### d) Autorizaciones de Obras
+
 **Autorizar las reparaciones y mejoras** que se hicieren en la edificación, los edificios y áreas comunes
 
 ### e) Ampliaciones
+
 **Acordar o desaprobar la ampliación** del CONDOMINIO, tanto en las áreas comunes, como privadas y la adquisición de otros bienes
 
 ### f) Cuotas
+
 **Acordar y fijar las cuotas ordinarias y extraordinarias** del CONDOMINIO
 
 ### g) Poderes Legales
+
 **Otorgar los poderes** con las facultades que estimen convenientes
 
 ### h) Órganos Internos
+
 **Crear los órganos internos** que considere necesarios para la buena administración del condominio y su funcionamiento
 
 ### i) Regulación de Bienes Comunes
+
 - **Regular y normar** lo referente a los bienes comunes y aprovechamiento de las áreas comunes
 - **Fijar las multas** por concepto de sanciones al presente reglamento
 - **Resolver sobre la materia** que la LEY pone bajo su competencia
@@ -101,14 +125,17 @@ Nombrar, según conveniencia del condominio una **Junta de Condóminos**, integr
 ## Artículo 54: Frecuencia de las Asambleas
 
 La Asamblea de Condóminos se reunirá **por lo menos una vez al año** en:
+
 - Las instalaciones del Condominio, o
 - En el lugar que la convocatoria determine, siempre y cuando el mismo sea **dentro del Área Metropolitana**
 
 ## Artículo 55: Asambleas Extraordinarias
 
 La Asamblea de Condóminos se reunirá de forma **extraordinaria** cuando así lo convoque:
+
 - **El Administrador**, o  
 - **Los condóminos**, según las disposiciones de la LEY, su reglamento y el presente REGLAMENTO
 
-### Carácter Vinculante
+### ⚖️ Carácter Vinculante
+
 Las **resoluciones tomadas** por la Asamblea de Condóminos **obligarán a todos los condóminos**, aún a los ausentes o disidentes, con las consecuencias y obligaciones que dichos acuerdos conlleven.

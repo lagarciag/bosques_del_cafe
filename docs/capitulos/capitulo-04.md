@@ -1,22 +1,27 @@
+# 🏊 Capítulo IV - Regulaciones sobre Bienes Comunes
+
+!!! abstract "Resumen del Capítulo"
+    
+    Reglas para el uso de casa club, piscinas, canchas deportivas, juegos infantiles y demás áreas recreativas del condominio por parte de condóminos, visitantes y usuarios.
+
 ---
-title: "Capítulo IV - Regulaciones y Disposiciones sobre Bienes Comunes"
-weight: 40
-description: "Reglas para el uso de casa club, piscinas, canchas deportivas, juegos infantiles y demás áreas recreativas del condominio"
+
+## 📋 Artículo 26: Reglas Generales
+
+!!! warning "Reglas Obligatorias"
+    
+    Con el fin de **regular y facilitar la utilización** de las áreas y bienes comunes del condominio, se establecen las siguientes **reglas de acatamiento obligatorio** para todos los usuarios del condominio.
+
 ---
 
-# Capítulo IV - Regulaciones y Disposiciones sobre Bienes Comunes del Área Residencial del Condominio
-
-## Artículo 26: Reglas Generales
-
-Con el fin de **regular y facilitar la utilización** de las áreas y bienes comunes del condominio por parte de los condóminos, sus visitantes y usuarios, se establecen las siguientes **reglas de acatamiento obligatorio** para los condóminos, arrendatarios, subarrendatarios, residentes, ocupantes o usuarios del condominio, las cuales deberán hacerse de conocimiento del personal que contraten los condóminos.
-
-## Casa Club
+## 🏢 Casa Club
 
 ### Artículo 27: Facultades de Reservar la Casa Club
 
 Todo condómino, arrendante, subarrendante, ocupante o residente de una de las filiales del condominio, **debidamente acreditado** como tal ante la Administración del Condominio, tendrá la facultad de **reservar para una fecha específica** la utilización de la Casa Club de la sección en la cual reside.
 
-#### Propósito de los Eventos
+#### 🎉 Propósito de los Eventos
+
 - Para realizar **eventos sociales** en que tenga participación directa
 - **Prohibido:** Eventos de carácter comercial, religioso y/o político (salvo autorización previa y expresa de la Asamblea)
 
