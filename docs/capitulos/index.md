@@ -1,5 +1,9 @@
 # Capítulos del Reglamento de Condominio
 
+!!! info "📄 Documento Original"
+    
+    Si prefiere consultar el reglamento completo tal como fue inscrito en el registro, puede **[📥 descargar el PDF original aquí](../reglamento_bosques_cafe.pdf)**.
+
 Este es el **Reglamento de Condominio y Administración** del **Condominio Residencial Horizontal y Vertical Bosques de Café**, dividido en capítulos para facilitar la consulta y navegación.
 
 ## Navegación por Capítulos
