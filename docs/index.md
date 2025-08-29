@@ -4,6 +4,16 @@ Este sitio es una iniciativa **independiente de propietarios para propietarios**
 No es administrado por la Administración del Condominio ni por la desarrolladora.  
 Todo el contenido es **público** y **no** incluye datos personales ni información sensible de los copropietarios.
 
+!!! warning "⚠️ Sitio Generado con Inteligencia Artificial"
+    
+    **Este sitio fue creado en su mayoría utilizando inteligencia artificial** como herramienta de apoyo para organizar y presentar el contenido del reglamento.
+    
+    - 🎯 **Objetivo:** Servir como guía práctica para consulta rápida
+    - ⚠️ **Limitaciones:** Puede contener errores, omisiones o interpretaciones inexactas
+    - 📋 **Para consultas 100% exactas:** Siempre consulte el **[documento original en PDF](./reglamento_bosques_cafe.pdf)**
+    
+    La información aquí presentada no sustituye la consulta del documento registral oficial.
+
 ---
 
 ## 🤖 Asistente Virtual (AI) del Reglamento
