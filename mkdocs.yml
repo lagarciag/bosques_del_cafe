@@ -8,6 +8,7 @@ repo_url: https://github.com/lagarciag/bosques_del_cafe
 theme:
   name: material
   language: es
+  logo: images/bosquesLogo.jpg
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
