@@ -1,11 +1,18 @@
-# Hugo generated files
+*#
+# Hugo generated files (legacy)
 public/
-
-# Hugo resources
 resources/_gen/
-
-# Hugo cache
 .hugo_build.lock
+
+# MkDocs generated files
+site/
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
 # Node.js
 node_modules/
