@@ -6,11 +6,11 @@ SASWEB es la plataforma integral de gestión para Bosques del Café que permite 
     **Web**: [https://bcafe.sasweb.net](https://bcafe.sasweb.net)  
     **Aplicación móvil**: Disponible en App Store y Google Play
 
-## :rocket: Primeros Pasos
+## 🚀 Primeros Pasos
 
 ### Registro Inicial
 
-=== ":material-web: Acceso Web"
+=== "🌐 Acceso Web"
     
     1. Ingresa a [bcafe.sasweb.net](https://bcafe.sasweb.net)
     2. Haz clic en "Registrarse"
@@ -18,7 +18,7 @@ SASWEB es la plataforma integral de gestión para Bosques del Café que permite 
     4. Verifica tu correo electrónico
     5. Espera la aprobación de la administración
 
-=== ":material-cellphone: App Móvil"
+=== "📱 App Móvil"
     
     1. Descarga "SASWEB" desde tu tienda de aplicaciones
     2. Selecciona "Crear cuenta"
@@ -36,7 +36,7 @@ SASWEB es la plataforma integral de gestión para Bosques del Café que permite 
     - ✅ Información de vehículos
     - ✅ Datos de contacto de emergencia
 
-## :gear: Módulos Principales
+## ⚙️ Módulos Principales
 
 ### 🏠 Gestión Residencial
 
@@ -94,7 +94,7 @@ SASWEB es la plataforma integral de gestión para Bosques del Café que permite 
     - **Código recurrente**: Para visitantes frecuentes
     - **Código de emergencia**: Para situaciones especiales
 
-## :computer: Funciones Avanzadas
+## 💻 Funciones Avanzadas
 
 ### Dashboard Personalizado
 
@@ -123,7 +123,7 @@ Configura tu panel principal con:
     - 💬 Comentarios del personal
     - ⏰ Tiempo de respuesta
 
-## :mobile_phone: App Móvil - Características
+## 📱 App Móvil - Características
 
 ### Funciones Exclusivas
 
@@ -142,7 +142,7 @@ Configura tu panel principal con:
     - 🚨 **Alertas de seguridad** - Recomendado activo
     - 🎉 **Eventos sociales** - Opcional
 
-## :question: Preguntas Frecuentes
+## ❓ Preguntas Frecuentes
 
 ??? question "¿Cómo recupero mi contraseña?"
     1. En la página de login, haz clic en "¿Olvidaste tu contraseña?"
