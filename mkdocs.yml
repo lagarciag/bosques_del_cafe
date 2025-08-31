@@ -133,6 +133,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/lagarciag
   generator: false
+  analytics:
+    provider: google
+    property: G-BMRDJFQ7YX
 
 copyright: Copyright &copy; 2024 Bosques del Café
 
