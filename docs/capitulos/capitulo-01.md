@@ -114,10 +114,12 @@ El destino general del Condominio Residencial Horizontal y Vertical Bosques de C
 El CONDOMINIO consta de **trescientas cincuenta y tres (353) fincas filiales** en total, distribuidas así:
 
 #### Filiales Residenciales (308 unidades)
+
 - **54 casas** de habitación
 - **254 apartamentos** ubicados en edificios
 
 #### Estacionamientos (45 unidades)
+
 - **45 fincas filiales** destinadas a estacionamientos ubicadas en los sótanos de cada edificio
 
 ### Bienes Comunes

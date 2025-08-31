@@ -105,6 +105,7 @@ La **variación de las cláusulas** de la escritura constitutiva o del reglament
 **Construir nuevos pisos o sótanos**, excavar o autorizar a alguno de los propietarios para que efectúe estos trabajos
 
 #### iii) Bienes Comunes
+
 - **Adquirir nuevos bienes comunes**
 - **Variar el destino** de los existentes
 - **Disponer en cualquier forma** el modo en que pueden aprovecharse

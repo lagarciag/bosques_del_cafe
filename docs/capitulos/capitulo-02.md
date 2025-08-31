@@ -38,6 +38,7 @@ El terreno donde se asienta el CONDOMINIO.
 Los espacios destinados al uso del personal encargado de la administración o designado por esta, mantenimiento o seguridad del CONDOMINIO.
 
 ### ⚡ d) Instalaciones de Servicios Centrales
+
 - Electricidad
 - Iluminación
 - Telefonía
@@ -51,6 +52,7 @@ Los espacios destinados al uso del personal encargado de la administración o de
 - Otros servicios similares
 
 ### ⚙️ e) Equipos y Sistemas
+
 - Los ascensores
 - Los incineradores de residuos
 - Los equipos adquiridos por el condominio para el mejoramiento, ornato, mantenimiento y conservación de sus áreas comunes y de recreación
@@ -64,6 +66,7 @@ Los ductos o conductos de los bienes y/o servicios que disfrutan los condóminos
 - Cualquier otra índole destinados a llevar servicios al CONDOMINIO y/o sus FILIALES
 
 ### 🏊 g) Instalaciones Recreativas
+
 - La casa club, sus accesorios y bienes adquiridos por el condominio
 - Las facilidades y/o áreas comunes
 

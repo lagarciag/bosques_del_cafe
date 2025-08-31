@@ -159,21 +159,6 @@ Configura tu panel principal con:
 ??? question "¿La app funciona sin internet?"
     Algunas funciones básicas como códigos previamente generados funcionan offline, pero la mayoría requiere conexión.
 
-## :sos: Soporte Técnico
-
-### Canales de Ayuda
-
-| Canal | Horario | Contacto |
-|-------|---------|----------|
-| **Chat en línea** | 24/7 | Dentro de la plataforma |
-| **Teléfono** | Lunes-Viernes 8am-6pm | +57 (1) XXX-XXXX |
-| **Email** | 24/7 | soporte@sasweb.co |
-
-!!! tip "Antes de Contactar Soporte"
-    1. Verifica tu conexión a internet
-    2. Cierra y vuelve a abrir la aplicación
-    3. Actualiza la app a la última versión
-    4. Revisa las preguntas frecuentes
 
 ---
 
