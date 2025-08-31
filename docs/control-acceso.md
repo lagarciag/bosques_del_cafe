@@ -5,21 +5,23 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
 !!! info "Objetivo"
     Garantizar la seguridad de todos los residentes manteniendo un ambiente confortable y controlado en nuestro conjunto residencial.
 
-## :key: Sistemas de Acceso
+## 🔑 Sistemas de Acceso
 
 ### Para Residentes
 
-=== ":id_card: Identificación Principal"
+=== "🆔 Identificación Principal"
     
     **Métodos aceptados:**
+    
     - **Tarjeta de proximidad** (principal)
     - **Código PIN** personal
     - **Aplicación móvil SASWEB** 
     - **Reconocimiento facial** (en implementación)
 
-=== ":car: Acceso Vehicular"
+=== "🚗 Acceso Vehicular"
     
     **Requisitos:**
+    
     - Vehículo registrado en SASWEB
     - Placa visible y legible
     - Tarjeta de proximidad vigente
@@ -32,7 +34,7 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
 !!! warning "Sin Excepción"
     **Todos los visitantes** deben registrarse en portería antes del ingreso, sin excepción.
 
-=== ":walking: Visitantes a Pie"
+=== "🚶 Visitantes a Pie"
     
     **Proceso de ingreso:**
     
@@ -48,15 +50,16 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
        - Escarapela temporal
        - Válida solo durante la visita
 
-=== ":car: Visitantes en Vehículo"
+=== "🚗 Visitantes en Vehículo"
     
     **Requisitos adicionales:**
+    
     - Registro de placa del vehículo
     - SOAT vigente del vehículo
     - Licencia de conducción del conductor
     - Autorización previa del residente (recomendado)
 
-## :timer: Horarios de Acceso
+## ⏲️ Horarios de Acceso
 
 ### Acceso General
 
@@ -79,7 +82,7 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
     - **Otros festivos**: Horario normal
     - **Eventos del conjunto**: Según autorización de administración
 
-## :truck: Prestadores de Servicios
+## 🚛 Prestadores de Servicios
 
 ### Servicios Regulares
 
@@ -97,6 +100,7 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
 === "Mudanzas"
     
     **Procedimiento:**
+    
     1. **Autorización previa** (48 horas antes)
     2. **Reserva de ascensor** de carga
     3. **Pago de depósito** por posibles daños
@@ -106,13 +110,14 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
 === "Trabajadores/Contratistas"
     
     **Requisitos:**
+    
     - Registro en SASWEB por el propietario
     - **Documento de identidad** y foto
     - **Elementos de protección** personal
     - **Horario de trabajo** autorizado
     - **Seguro de responsabilidad civil** (obras mayores)
 
-## :shield: Medidas de Seguridad
+## 🛡️ Medidas de Seguridad
 
 ### Cámaras de Vigilancia
 
@@ -127,6 +132,7 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
 === "Portería Principal"
     
     **Servicios:**
+    
     - Control de acceso 24/7
     - Registro de visitantes
     - Monitoreo de cámaras
@@ -138,12 +144,13 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
     **Horario:** 6:00 PM - 6:00 AM
     
     **Funciones:**
+    
     - Rondas de seguridad
     - Control de accesos nocturnos
     - Monitoreo perimetral
     - Respuesta a alarmas
 
-## :no_entry: Restricciones y Prohibiciones
+## 🚫 Restricciones y Prohibiciones
 
 ### Acceso Denegado
 
@@ -171,21 +178,23 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
     - Materiales de construcción
     - Elementos de jardinería
 
-## :exclamation: Procedimientos de Emergencia
+## ❗ Procedimientos de Emergencia
 
 ### Tipos de Emergencia
 
-=== ":fire: Emergencia Médica/Incendio"
+=== "🔥 Emergencia Médica/Incendio"
     
     **Protocolo:**
+    
     1. **Acceso inmediato** a servicios de emergencia
     2. **Evacuación de área** si es necesario
     3. **Notificación** a administración
     4. **Apoyo logístico** del personal de seguridad
 
-=== ":warning: Emergencia de Seguridad"
+=== "⚠️ Emergencia de Seguridad"
     
     **Protocolo:**
+    
     1. **Activación de alarmas** si aplica
     2. **Cierre temporal** de accesos
     3. **Notificación** a autoridades
@@ -201,11 +210,12 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
 | **Portería Principal** | Ext. 101 | 24 horas |
 | **Administración** | Ext. 100 | Lunes-Viernes 8AM-5PM |
 
-## :memo: Registro de Novedades
+## 📝 Registro de Novedades
 
 ### Libro de Ocurrencias
 
 **Se registran:**
+
 - Incidentes de seguridad
 - Visitantes fuera de horario
 - Comportamientos inadecuados
@@ -221,7 +231,7 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
     - **Comunicados** sobre incidentes relevantes
     - **Recomendaciones** de seguridad
 
-## :clipboard: Derechos y Deberes
+## 📋 Derechos y Deberes
 
 ### Derechos de los Residentes
 
@@ -242,7 +252,7 @@ Políticas y procedimientos de seguridad para el acceso a Bosques del Café, inc
     - Respetar el trabajo del personal de seguridad
     - Cumplir con horarios establecidos
 
-## :warning: Sanciones por Incumplimiento
+## ⚠️ Sanciones por Incumplimiento
 
 ### Tabla de Multas
 

@@ -5,7 +5,7 @@ Esta página contiene los códigos de pintura oficiales de **Sherwin Williams** 
 !!! warning "Importante"
     Los códigos varían según la **fase de construcción**. Asegúrate de usar los códigos correctos para tu edificio.
 
-## :one: Primera Fase
+## 1️⃣ Primera Fase
 
 ### Códigos de Color Principal
 
@@ -25,7 +25,7 @@ Esta página contiene los códigos de pintura oficiales de **Sherwin Williams** 
     | Detalles y marcos | **SW 7674** | Peppercorn |
     | Balcones | **SW 7005** | Pure White |
 
-## :two: Segunda Fase
+## 2️⃣ Segunda Fase
 
 ### Códigos de Color Principal
 
@@ -45,7 +45,7 @@ Esta página contiene los códigos de pintura oficiales de **Sherwin Williams** 
     | Detalles y marcos | **SW 2837** | Natural Choice |
     | Balcones | **SW 6119** | Antique White |
 
-## :memo: Notas Importantes
+## 📝 Notas Importantes
 
 !!! tip "Recomendaciones"
     - Verifica siempre con la administración antes de realizar trabajos de pintura

@@ -62,6 +62,27 @@ Esta regla aplica para:
 - 🟠 (naranja) en lugar de `:orange_circle:`
 - 🔴 (rojo) en lugar de `:red_circle:`
 - 🟣 (morado) en lugar de `:purple_circle:`
+- 🔑 (llave) en lugar de `:key:`
+- 🆔 (ID) en lugar de `:id_card:`
+- 🚗 (carro) en lugar de `:car:`
+- 🚶 (persona caminando) en lugar de `:walking:`
+- ⏲️ (cronómetro) en lugar de `:timer:`
+- 🚛 (camión) en lugar de `:truck:`
+- 🛡️ (escudo) en lugar de `:shield:`
+- 🚫 (prohibido) en lugar de `:no_entry:`
+- ❗ (exclamación) en lugar de `:exclamation:`
+- 🔥 (fuego) en lugar de `:fire:`
+- 📝 (nota) en lugar de `:memo:`
+- 📋 (portapapeles) en lugar de `:clipboard:`
+- 1️⃣ (uno) en lugar de `:one:`
+- 2️⃣ (dos) en lugar de `:two:`
+- 🚀 (cohete) en lugar de `:rocket:`
+- 🌐 (web) en lugar de `:material-web:`
+- 📱 (móvil) en lugar de `:material-cellphone:` o `:mobile_phone:`
+- ⚙️ (engranaje) en lugar de `:gear:`
+- 💻 (computadora) en lugar de `:computer:`
+- ❓ (pregunta) en lugar de `:question:`
+- 🕒 (reloj 3) en lugar de `:clock3:`
 
 ## Estructura del Proyecto
 

@@ -5,7 +5,7 @@ Información oficial sobre horarios permitidos y procedimientos para realizar tr
 !!! warning "Cumplimiento Obligatorio"
     Todos los residentes y contratistas deben cumplir estrictamente con estos protocolos. El incumplimiento puede resultar en sanciones.
 
-## :clock3: Horarios Permitidos
+## 🕒 Horarios Permitidos
 
 ### Días Hábiles
 
