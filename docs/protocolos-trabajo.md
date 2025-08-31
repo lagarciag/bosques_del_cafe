@@ -54,6 +54,7 @@ Información oficial sobre horarios permitidos y procedimientos para realizar tr
 === "Vecinos Directos"
     
     Notificar **obligatoriamente** a:
+    
     - Apartamento de arriba
     - Apartamento de abajo  
     - Apartamentos laterales

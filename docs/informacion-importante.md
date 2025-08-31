@@ -46,6 +46,14 @@ Esta sección contiene documentos esenciales y protocolos importantes para resid
 
     [:octicons-arrow-right-24: Consultar políticas](control-acceso.md)
 
+-   🔇 __Regulación de Ruido__
+
+    ---
+
+    Normativa nacional sobre límites de ruido en zonas residenciales
+
+    [:octicons-arrow-right-24: Ver regulación](regulacion-ruido.md)
+
 </div>
 
 ## Contacto y Soporte
