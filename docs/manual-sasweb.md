@@ -3,7 +3,7 @@
 SASWEB es la plataforma integral de gestión para Bosques del Café que permite a los residentes acceder a servicios y información del condominio.
 
 !!! info "Acceso a la Plataforma"
-    **Web**: [https://www.sasweb.co](https://www.sasweb.co)  
+    **Web**: [https://bcafe.sasweb.net](https://bcafe.sasweb.net)  
     **Aplicación móvil**: Disponible en App Store y Google Play
 
 ## :rocket: Primeros Pasos
@@ -12,7 +12,7 @@ SASWEB es la plataforma integral de gestión para Bosques del Café que permite 
 
 === ":material-web: Acceso Web"
     
-    1. Ingresa a [www.sasweb.co](https://www.sasweb.co)
+    1. Ingresa a [bcafe.sasweb.net](https://bcafe.sasweb.net)
     2. Haz clic en "Registrarse"
     3. Completa tus datos personales
     4. Verifica tu correo electrónico
