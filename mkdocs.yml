@@ -137,11 +137,23 @@ extra:
     provider: google
     property: G-BMRDJFQ7YX
 
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.js
+  - javascripts/charts.js
+
+extra_css:
+  - stylesheets/charts.css
+
 copyright: Copyright &copy; 2024 Bosques del Café
 
 nav:
   - Inicio: index.md
   - Información de Finca: informacion-finca.md
   - "📋 Información Importante": informacion-importante.md
+  - "📊 Estados Financieros":
+    - "📈 Análisis Histórico 2025": estados-de-resultados/analisis-historico-2025.md
+    - "📑 Estados Mensuales":
+      - "Julio 2025": estados-de-resultados/resumen-julio-2025.md
+    - "⚙️ Generador de Reportes": estados-de-resultados/prompt-generador-reporte.md
   - Reglamento en formato Web: capitulos/index.md
   - "🤖 IA del Reglamento": "https://chatgpt.com/g/g-68afb4fdf81c819182b5171d14ccef8d-ia-reglamento-bosques-del-cafe"
