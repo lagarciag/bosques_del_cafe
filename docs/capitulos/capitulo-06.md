@@ -21,6 +21,7 @@
 ### Requisitos para la Empresa de Seguridad
 Preferiblemente se contratará la seguridad a una compañía que cumpla **todos los requerimientos legales** que exige la legislación costarricense, incluido pero no limitado a:
 
+
 - Su **registro en el Ministerio de Seguridad**
 - La debida **portación de armas** por parte de sus oficiales
 - Contar con las **pólizas y seguros** que exija:
@@ -32,6 +33,7 @@ Preferiblemente se contratará la seguridad a una compañía que cumpla **todos 
 A criterio de la Asamblea y la Administración, el personal de seguridad deberá **colaborar con la Administración del Condominio**:
 
 #### Reporte de Incidentes
+
 - **Canalizar y reportar en bitácora** las quejas e incidentes que acontezcan a deshoras
 - **Levantar el informe o reporte** respectivo
 - El informe deberá ser **firmado y entregado al Administrador** dentro de las 24 horas siguientes a acaecido el hecho

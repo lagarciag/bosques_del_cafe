@@ -3,22 +3,22 @@
 SASWEB es la plataforma integral de gestión para Bosques del Café que permite a los residentes acceder a servicios y información del condominio.
 
 !!! info "Acceso a la Plataforma"
-    **Web**: [https://www.sasweb.co](https://www.sasweb.co)  
+    **Web**: [https://bcafe.sasweb.net](https://bcafe.sasweb.net)  
     **Aplicación móvil**: Disponible en App Store y Google Play
 
-## :rocket: Primeros Pasos
+## 🚀 Primeros Pasos
 
 ### Registro Inicial
 
-=== ":material-web: Acceso Web"
+=== "🌐 Acceso Web"
     
-    1. Ingresa a [www.sasweb.co](https://www.sasweb.co)
+    1. Ingresa a [bcafe.sasweb.net](https://bcafe.sasweb.net)
     2. Haz clic en "Registrarse"
     3. Completa tus datos personales
     4. Verifica tu correo electrónico
     5. Espera la aprobación de la administración
 
-=== ":material-cellphone: App Móvil"
+=== "📱 App Móvil"
     
     1. Descarga "SASWEB" desde tu tienda de aplicaciones
     2. Selecciona "Crear cuenta"
@@ -36,7 +36,7 @@ SASWEB es la plataforma integral de gestión para Bosques del Café que permite 
     - ✅ Información de vehículos
     - ✅ Datos de contacto de emergencia
 
-## :gear: Módulos Principales
+## ⚙️ Módulos Principales
 
 ### 🏠 Gestión Residencial
 
@@ -94,7 +94,7 @@ SASWEB es la plataforma integral de gestión para Bosques del Café que permite 
     - **Código recurrente**: Para visitantes frecuentes
     - **Código de emergencia**: Para situaciones especiales
 
-## :computer: Funciones Avanzadas
+## 💻 Funciones Avanzadas
 
 ### Dashboard Personalizado
 
@@ -123,7 +123,7 @@ Configura tu panel principal con:
     - 💬 Comentarios del personal
     - ⏰ Tiempo de respuesta
 
-## :mobile_phone: App Móvil - Características
+## 📱 App Móvil - Características
 
 ### Funciones Exclusivas
 
@@ -142,7 +142,7 @@ Configura tu panel principal con:
     - 🚨 **Alertas de seguridad** - Recomendado activo
     - 🎉 **Eventos sociales** - Opcional
 
-## :question: Preguntas Frecuentes
+## ❓ Preguntas Frecuentes
 
 ??? question "¿Cómo recupero mi contraseña?"
     1. En la página de login, haz clic en "¿Olvidaste tu contraseña?"
@@ -159,21 +159,6 @@ Configura tu panel principal con:
 ??? question "¿La app funciona sin internet?"
     Algunas funciones básicas como códigos previamente generados funcionan offline, pero la mayoría requiere conexión.
 
-## :sos: Soporte Técnico
-
-### Canales de Ayuda
-
-| Canal | Horario | Contacto |
-|-------|---------|----------|
-| **Chat en línea** | 24/7 | Dentro de la plataforma |
-| **Teléfono** | Lunes-Viernes 8am-6pm | +57 (1) XXX-XXXX |
-| **Email** | 24/7 | soporte@sasweb.co |
-
-!!! tip "Antes de Contactar Soporte"
-    1. Verifica tu conexión a internet
-    2. Cierra y vuelve a abrir la aplicación
-    3. Actualiza la app a la última versión
-    4. Revisa las preguntas frecuentes
 
 ---
 
